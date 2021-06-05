@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SaiVamshiKatkuri
+- 👋 Hello Everyone 💛, I’m @SaiVamshiKatkuri
 - 👀 I’m interested in  Machine Learning and Deep Learning domain.
-- 🌱 I’m currently learning stuff related to Machine Learning.
+- 🌱 I’m currently learning stuff related to Machine Learning and Deep Learning.
 - 💞️ I’m looking to collaborate on real time projects and researchs.
 - 📫 How to reach me : saivamshikatkuri2809@gmail.com
 
