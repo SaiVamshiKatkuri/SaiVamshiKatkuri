@@ -8,8 +8,8 @@
 - 💞️ I’m looking to collaborate on real time projects and researchs.
 - 😎 Skills: MERN STACK, Machine Learning, Deep Learning,SQL.
 - 🛠 Tools: Jupyter,VsCode,Anaconda,Colab.
-- 📫 How to reach me : saivamshikatkuri2809@gmail.com
-- 😎 Linkedin :`[Katkuri Sai Vamshi](https://www.linkedin.com/in/katkuri-sai-vamshi-2209281a8/)`
+- 📫 **Mail me at** : saivamshikatkuri2809@gmail.com
+- 😎 **Linkedin** :[Katkuri Sai Vamshi](https://www.linkedin.com/in/katkuri-sai-vamshi-2209281a8/)
 - 🧐 Languages : C, C++, Core Java, Python, Basics of Javascript and PHP
 
 
