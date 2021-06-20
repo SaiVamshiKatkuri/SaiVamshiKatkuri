@@ -1,4 +1,4 @@
--     Hello Everyone <span> <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="80" height="80" /> </span>
+- 😄 Hello Everyone <span> <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="80" height="80" /> </span>
 - 🤗 I’m @SaiVamshiKatkuri
 - 👀 I’m interested in  Machine Learning and Deep Learning domain.
 - 🌱 I’m currently learning stuff related to Machine Learning and Deep Learning.
