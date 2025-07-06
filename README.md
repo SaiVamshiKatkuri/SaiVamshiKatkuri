@@ -1,21 +1,82 @@
-   ## Hey People! <span> <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="60" height="60" /> </span>
--  **🤗 I’m @SaiVamshiKatkuri**
- ## And I know :
--  <span> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> </span>
--  <span><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /> </span>
--  <span> <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  <img src="	https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />   </span>
-- 👀 I’m interested in  `Machine Learning` and `Deep Learning domain`.
-- 🌱 I’m currently learning stuff related to Machine Learning and Deep Learning.
-- 💞️ I’m looking to collaborate on real time projects and researchs.
-- 😎 Skills: MERN STACK, Machine Learning, Deep Learning,SQL.
-- 🛠 Tools: Jupyter,VsCode,Anaconda,Colab.
-- 📫 **Mail me at** : saivamshikatkuri2809@gmail.com
-- 😎 **Linkedin** :[Katkuri Sai Vamshi](https://www.linkedin.com/in/katkuri-sai-vamshi-2209281a8/)
-- 🧐 Languages : C, C++, Core Java, Python, Basics of Javascript and PHP
+## 👋 Hey there! I'm Sai Vamshi Katkuri  
+<a href="https://www.linkedin.com/in/katkuri-sai-vamshi-2209281a8/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+</a>  
+📧 saivamshikatkuri2809@gmail.com  
 
+---
+
+### 💻 Full-Stack Developer | Software Engineer | ML Enthusiast
+
+🚀 I'm a passionate full-stack software developer with 3+ years of experience building production-ready web apps, scalable backend systems, and integrating ML models. I thrive on clean code, continuous learning, and solving real-world problems.
+
+---
+
+### ⚡ Tech Stack
+
+#### 🖥️ Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-007396?style=for-the-badge" />
+</p>
+
+#### 🛠️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+</p>
+
+#### 🧠 Data Science & ML
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-1F2D3D?style=for-the-badge" />
+</p>
+
+#### 🗃️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+- Advanced backend system design  
+- ML model deployment at scale  
+- Exploring LLMs & LangChain
+
+---
+
+### 🤝 Let's Collaborate!
+I'm open to working on real-world projects, research initiatives, and open-source contributions, especially in Full-Stack development or Machine Learning domains.
+
+---
+
+### 🔗 Let's Connect!
+📧 saivamshikatkuri2809@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/katkuri-sai-vamshi-2209281a8/)  
+🌐 Portfolio site coming soon...
+
+---
 
 <!---
 SaiVamshiKatkuri/SaiVamshiKatkuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
